@@ -1,7 +1,9 @@
 ### Hi there 👋
 I am a Full Stack Web Developer based in the Seattle Area.
 Thanks for checking out my Github!
-
+🔭 I’m currently working on finishing school!
+😄 I'm a fan of Lua, C++, and Python
+⚡Fun fact: I'm also learning Mandarin Chinese! (although coding languages are cooler 😎🥱)
 <!--
 **shanesample/shanesample** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
