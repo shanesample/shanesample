@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a Full Stack Web Developer based in the Seattle Area.
 
 <!--
 **shanesample/shanesample** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
